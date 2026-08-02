@@ -1,0 +1,19 @@
+{
+  "title": "Lab 25 — Governance, Audit and Model Lineage",
+  "description": "Inspect real CloudTrail events for Bedrock and SageMaker API calls, add AWS Config compliance rules, and use the SageMaker Model Registry for version control and deployment approval.",
+  "difficulty": "intermediate",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Generate AI API activity to audit", "text": "step1/text.md" },
+      { "title": "Step 2: Inspect a real CloudTrail event: identity, action, timestamp", "text": "step2/text.md" },
+      { "title": "Step 3: Create a trail for long-term audit retention", "text": "step3/text.md" },
+      { "title": "Step 4: Continuous compliance checking with AWS Config", "text": "step4/text.md" },
+      { "title": "Step 5: Model lineage and deployment approval with SageMaker Model Registry", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

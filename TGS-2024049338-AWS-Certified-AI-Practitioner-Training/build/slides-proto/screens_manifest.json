@@ -1,0 +1,1626 @@
+[
+ {
+  "slide": 1,
+  "domain": 0,
+  "title": "AWS Certified AI Practitioner Training (AIF-C01)",
+  "file": "s001_0.png",
+  "w": 3.1,
+  "h": 3.1
+ },
+ {
+  "slide": 4,
+  "domain": 0,
+  "title": "Let's Know Each Other...",
+  "file": "s004_0.jpg",
+  "w": 8.5,
+  "h": 4.9
+ },
+ {
+  "slide": 20,
+  "domain": 0,
+  "title": "Sign Up Free Trial AWS Account",
+  "file": "s020_0.png",
+  "w": 8.3,
+  "h": 3.0
+ },
+ {
+  "slide": 22,
+  "domain": 0,
+  "title": "LMS/TMS",
+  "file": "s022_0.png",
+  "w": 4.6,
+  "h": 5.5
+ },
+ {
+  "slide": 26,
+  "domain": 1,
+  "title": "Artificial Intelligence",
+  "file": "s026_0.png",
+  "w": 3.6,
+  "h": 3.6
+ },
+ {
+  "slide": 28,
+  "domain": 1,
+  "title": "Prediction and Forecast",
+  "file": "s028_0.png",
+  "w": 9.2,
+  "h": 4.3
+ },
+ {
+  "slide": 29,
+  "domain": 1,
+  "title": "Anomaly Detection",
+  "file": "s029_0.png",
+  "w": 9.4,
+  "h": 4.3
+ },
+ {
+  "slide": 30,
+  "domain": 1,
+  "title": "Computer Vision",
+  "file": "s030_0.png",
+  "w": 9.8,
+  "h": 3.1
+ },
+ {
+  "slide": 31,
+  "domain": 1,
+  "title": "Translation",
+  "file": "s031_0.png",
+  "w": 6.2,
+  "h": 4.6
+ },
+ {
+  "slide": 32,
+  "domain": 1,
+  "title": "Natural Language Processing",
+  "file": "s032_0.png",
+  "w": 6.5,
+  "h": 4.5
+ },
+ {
+  "slide": 34,
+  "domain": 1,
+  "title": "Machine Learning",
+  "file": "s034_0.png",
+  "w": 6.5,
+  "h": 4.5
+ },
+ {
+  "slide": 35,
+  "domain": 1,
+  "title": "Structured Data",
+  "file": "s035_0.png",
+  "w": 9.6,
+  "h": 4.6
+ },
+ {
+  "slide": 36,
+  "domain": 1,
+  "title": "Semi-Structured Data",
+  "file": "s036_0.png",
+  "w": 9.0,
+  "h": 4.6
+ },
+ {
+  "slide": 37,
+  "domain": 1,
+  "title": "UnStructured Data",
+  "file": "s037_0.png",
+  "w": 9.7,
+  "h": 4.1
+ },
+ {
+  "slide": 38,
+  "domain": 1,
+  "title": "Time Series Data",
+  "file": "s038_0.png",
+  "w": 9.8,
+  "h": 3.6
+ },
+ {
+  "slide": 39,
+  "domain": 1,
+  "title": "Model Training",
+  "file": "s039_0.png",
+  "w": 6.1,
+  "h": 4.4
+ },
+ {
+  "slide": 39,
+  "domain": 1,
+  "title": "Model Training",
+  "file": "s039_1.png",
+  "w": 3.2,
+  "h": 2.9
+ },
+ {
+  "slide": 40,
+  "domain": 1,
+  "title": "Inference",
+  "file": "s040_0.png",
+  "w": 5.3,
+  "h": 4.6
+ },
+ {
+  "slide": 41,
+  "domain": 1,
+  "title": "Inferencing",
+  "file": "s041_0.png",
+  "w": 6.2,
+  "h": 3.9
+ },
+ {
+  "slide": 42,
+  "domain": 1,
+  "title": "Supervised Learning",
+  "file": "s042_0.png",
+  "w": 9.8,
+  "h": 4.6
+ },
+ {
+  "slide": 43,
+  "domain": 1,
+  "title": "Unsupervised Learning",
+  "file": "s043_0.png",
+  "w": 8.6,
+  "h": 4.6
+ },
+ {
+  "slide": 44,
+  "domain": 1,
+  "title": "Anomaly Detection",
+  "file": "s044_0.png",
+  "w": 6.2,
+  "h": 4.6
+ },
+ {
+  "slide": 45,
+  "domain": 1,
+  "title": "Reinforcement Learning",
+  "file": "s045_0.png",
+  "w": 6.0,
+  "h": 4.3
+ },
+ {
+  "slide": 45,
+  "domain": 1,
+  "title": "Reinforcement Learning",
+  "file": "s045_1.png",
+  "w": 3.5,
+  "h": 2.5
+ },
+ {
+  "slide": 46,
+  "domain": 1,
+  "title": "OverFitting",
+  "file": "s046_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 47,
+  "domain": 1,
+  "title": "Under Fitting",
+  "file": "s047_0.png",
+  "w": 9.8,
+  "h": 3.6
+ },
+ {
+  "slide": 48,
+  "domain": 1,
+  "title": "Model Performance",
+  "file": "s048_0.png",
+  "w": 9.8,
+  "h": 2.5
+ },
+ {
+  "slide": 49,
+  "domain": 1,
+  "title": "Computer Vision",
+  "file": "s049_0.png",
+  "w": 9.8,
+  "h": 4.5
+ },
+ {
+  "slide": 51,
+  "domain": 1,
+  "title": "Large Language Models",
+  "file": "s051_0.png",
+  "w": 4.4,
+  "h": 4.1
+ },
+ {
+  "slide": 54,
+  "domain": 1,
+  "title": "Consider AI/ML when \u2026.",
+  "file": "s054_0.png",
+  "w": 8.4,
+  "h": 2.3
+ },
+ {
+  "slide": 55,
+  "domain": 1,
+  "title": "Machine Learning Problem Types",
+  "file": "s055_0.png",
+  "w": 8.5,
+  "h": 4.6
+ },
+ {
+  "slide": 56,
+  "domain": 1,
+  "title": "Supervised Learning - Classification",
+  "file": "s056_0.png",
+  "w": 9.6,
+  "h": 2.3
+ },
+ {
+  "slide": 56,
+  "domain": 1,
+  "title": "Supervised Learning - Classification",
+  "file": "s056_1.png",
+  "w": 5.2,
+  "h": 2.1
+ },
+ {
+  "slide": 57,
+  "domain": 1,
+  "title": "Supervised Learning - Regression",
+  "file": "s057_0.png",
+  "w": 3.8,
+  "h": 4.6
+ },
+ {
+  "slide": 58,
+  "domain": 1,
+  "title": "UnSupervised Learning",
+  "file": "s058_0.png",
+  "w": 3.2,
+  "h": 4.6
+ },
+ {
+  "slide": 59,
+  "domain": 1,
+  "title": "Computer Vision",
+  "file": "s059_0.png",
+  "w": 2.5,
+  "h": 4.6
+ },
+ {
+  "slide": 60,
+  "domain": 1,
+  "title": "Amazon Rekognition",
+  "file": "s060_0.png",
+  "w": 9.8,
+  "h": 3.6
+ },
+ {
+  "slide": 61,
+  "domain": 1,
+  "title": "Text and Document Analysis",
+  "file": "s061_0.png",
+  "w": 2.4,
+  "h": 4.4
+ },
+ {
+  "slide": 62,
+  "domain": 1,
+  "title": "Amazon Comprehend",
+  "file": "s062_0.png",
+  "w": 9.8,
+  "h": 4.3
+ },
+ {
+  "slide": 63,
+  "domain": 1,
+  "title": "Language AI",
+  "file": "s063_0.png",
+  "w": 2.4,
+  "h": 4.7
+ },
+ {
+  "slide": 64,
+  "domain": 1,
+  "title": "Amazon Polly",
+  "file": "s064_0.png",
+  "w": 9.4,
+  "h": 4.6
+ },
+ {
+  "slide": 65,
+  "domain": 1,
+  "title": "Customer Experience",
+  "file": "s065_0.png",
+  "w": 2.3,
+  "h": 4.6
+ },
+ {
+  "slide": 66,
+  "domain": 1,
+  "title": "Business Metrics",
+  "file": "s066_0.png",
+  "w": 2.2,
+  "h": 4.4
+ },
+ {
+  "slide": 69,
+  "domain": 1,
+  "title": "Amazon Mechanical Turk",
+  "file": "s069_0.jpg",
+  "w": 2.9,
+  "h": 2.7
+ },
+ {
+  "slide": 75,
+  "domain": 1,
+  "title": "Amazon Comprehend Medical",
+  "file": "s075_0.png",
+  "w": 3.0,
+  "h": 1.8
+ },
+ {
+  "slide": 75,
+  "domain": 1,
+  "title": "Amazon Comprehend Medical",
+  "file": "s075_2.png",
+  "w": 4.2,
+  "h": 3.6
+ },
+ {
+  "slide": 76,
+  "domain": 1,
+  "title": "Generative AI",
+  "file": "s076_0.png",
+  "w": 1.9,
+  "h": 2.3
+ },
+ {
+  "slide": 76,
+  "domain": 1,
+  "title": "Generative AI",
+  "file": "s076_1.png",
+  "w": 6.2,
+  "h": 2.8
+ },
+ {
+  "slide": 77,
+  "domain": 1,
+  "title": "Model Development",
+  "file": "s077_0.png",
+  "w": 2.4,
+  "h": 4.1
+ },
+ {
+  "slide": 78,
+  "domain": 1,
+  "title": "Fraud Detection an Prevention",
+  "file": "s078_0.png",
+  "w": 3.5,
+  "h": 3.5
+ },
+ {
+  "slide": 79,
+  "domain": 1,
+  "title": "Conversation AI for Self Service",
+  "file": "s079_0.png",
+  "w": 4.0,
+  "h": 3.4
+ },
+ {
+  "slide": 80,
+  "domain": 1,
+  "title": "Preventive Maintenance",
+  "file": "s080_0.png",
+  "w": 3.8,
+  "h": 3.9
+ },
+ {
+  "slide": 81,
+  "domain": 1,
+  "title": "Recommendation",
+  "file": "s081_0.png",
+  "w": 4.4,
+  "h": 2.9
+ },
+ {
+  "slide": 82,
+  "domain": 1,
+  "title": "Computer Vision",
+  "file": "s082_0.png",
+  "w": 2.1,
+  "h": 3.0
+ },
+ {
+  "slide": 83,
+  "domain": 1,
+  "title": "Demand Forecasting",
+  "file": "s083_0.png",
+  "w": 4.0,
+  "h": 2.6
+ },
+ {
+  "slide": 85,
+  "domain": 1,
+  "title": "ML Lifecycle",
+  "file": "s085_0.png",
+  "w": 9.8,
+  "h": 2.0
+ },
+ {
+  "slide": 89,
+  "domain": 1,
+  "title": "ML Lifecycle",
+  "file": "s089_0.png",
+  "w": 4.8,
+  "h": 4.6
+ },
+ {
+  "slide": 90,
+  "domain": 1,
+  "title": "Defining the Problem",
+  "file": "s090_0.png",
+  "w": 2.0,
+  "h": 3.7
+ },
+ {
+  "slide": 91,
+  "domain": 1,
+  "title": "Model Options",
+  "file": "s091_0.png",
+  "w": 5.9,
+  "h": 3.2
+ },
+ {
+  "slide": 92,
+  "domain": 1,
+  "title": "Amazon Sagemaker Jumpstart",
+  "file": "s092_0.png",
+  "w": 2.0,
+  "h": 4.2
+ },
+ {
+  "slide": 92,
+  "domain": 1,
+  "title": "Amazon Sagemaker Jumpstart",
+  "file": "s092_1.png",
+  "w": 6.9,
+  "h": 2.4
+ },
+ {
+  "slide": 96,
+  "domain": 1,
+  "title": "Processing Data",
+  "file": "s096_0.png",
+  "w": 3.4,
+  "h": 4.4
+ },
+ {
+  "slide": 97,
+  "domain": 1,
+  "title": "AWS GLUE",
+  "file": "s097_0.png",
+  "w": 2.1,
+  "h": 4.6
+ },
+ {
+  "slide": 97,
+  "domain": 1,
+  "title": "AWS GLUE",
+  "file": "s097_1.png",
+  "w": 7.2,
+  "h": 2.0
+ },
+ {
+  "slide": 98,
+  "domain": 1,
+  "title": "AWS Glue Data Catalog",
+  "file": "s098_0.png",
+  "w": 9.8,
+  "h": 4.4
+ },
+ {
+  "slide": 99,
+  "domain": 1,
+  "title": "AWS Glue DataBrew",
+  "file": "s099_0.png",
+  "w": 2.4,
+  "h": 4.1
+ },
+ {
+  "slide": 100,
+  "domain": 1,
+  "title": "Amazon SageMaker Canva",
+  "file": "s100_0.png",
+  "w": 2.4,
+  "h": 3.3
+ },
+ {
+  "slide": 101,
+  "domain": 1,
+  "title": "Teach The Model: Train, Tune and Evaluate",
+  "file": "s101_0.png",
+  "w": 6.0,
+  "h": 3.9
+ },
+ {
+  "slide": 102,
+  "domain": 1,
+  "title": "Amazon SageMaker Ground Truth",
+  "file": "s102_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 103,
+  "domain": 1,
+  "title": "Amazon SageMaker Training",
+  "file": "s103_0.png",
+  "w": 2.1,
+  "h": 4.6
+ },
+ {
+  "slide": 103,
+  "domain": 1,
+  "title": "Amazon SageMaker Training",
+  "file": "s103_1.png",
+  "w": 5.6,
+  "h": 2.4
+ },
+ {
+  "slide": 104,
+  "domain": 1,
+  "title": "Amazon SageMaker Experiments",
+  "file": "s104_0.png",
+  "w": 2.1,
+  "h": 3.4
+ },
+ {
+  "slide": 105,
+  "domain": 1,
+  "title": "Amazon SageMaker Automatic Model Tuning",
+  "file": "s105_0.png",
+  "w": 2.3,
+  "h": 3.6
+ },
+ {
+  "slide": 106,
+  "domain": 1,
+  "title": "Deploy the Model",
+  "file": "s106_0.png",
+  "w": 5.1,
+  "h": 3.0
+ },
+ {
+  "slide": 106,
+  "domain": 1,
+  "title": "Deploy the Model",
+  "file": "s106_1.png",
+  "w": 9.7,
+  "h": 1.3
+ },
+ {
+  "slide": 107,
+  "domain": 1,
+  "title": "Amazon Sagemaker Model Deployment",
+  "file": "s107_0.png",
+  "w": 9.8,
+  "h": 4.4
+ },
+ {
+  "slide": 108,
+  "domain": 1,
+  "title": "Amazon Sagemaker Inference",
+  "file": "s108_0.png",
+  "w": 9.8,
+  "h": 4.3
+ },
+ {
+  "slide": 109,
+  "domain": 1,
+  "title": "Monitor the Model",
+  "file": "s109_0.png",
+  "w": 1.9,
+  "h": 2.9
+ },
+ {
+  "slide": 110,
+  "domain": 1,
+  "title": "Monitor the Model",
+  "file": "s110_0.png",
+  "w": 9.8,
+  "h": 3.8
+ },
+ {
+  "slide": 111,
+  "domain": 1,
+  "title": "Lab: SageMaker",
+  "file": "s111_0.png",
+  "w": 3.5,
+  "h": 3.6
+ },
+ {
+  "slide": 113,
+  "domain": 1,
+  "title": "Amazon SageMaker Model Building Pipelines",
+  "file": "s113_0.png",
+  "w": 2.0,
+  "h": 4.3
+ },
+ {
+  "slide": 113,
+  "domain": 1,
+  "title": "Amazon SageMaker Model Building Pipelines",
+  "file": "s113_1.png",
+  "w": 3.8,
+  "h": 3.9
+ },
+ {
+  "slide": 114,
+  "domain": 1,
+  "title": "Repositories and Orchestration Tools",
+  "file": "s114_0.png",
+  "w": 9.8,
+  "h": 4.5
+ },
+ {
+  "slide": 115,
+  "domain": 1,
+  "title": "Confusion Matrix",
+  "file": "s115_0.png",
+  "w": 8.3,
+  "h": 4.7
+ },
+ {
+  "slide": 116,
+  "domain": 1,
+  "title": "Accuracy",
+  "file": "s116_0.png",
+  "w": 7.5,
+  "h": 4.7
+ },
+ {
+  "slide": 117,
+  "domain": 1,
+  "title": "Precision",
+  "file": "s117_0.png",
+  "w": 8.1,
+  "h": 4.7
+ },
+ {
+  "slide": 118,
+  "domain": 1,
+  "title": "Recall (TPR)",
+  "file": "s118_0.png",
+  "w": 8.1,
+  "h": 4.8
+ },
+ {
+  "slide": 119,
+  "domain": 1,
+  "title": "F1 Score",
+  "file": "s119_0.png",
+  "w": 7.8,
+  "h": 4.8
+ },
+ {
+  "slide": 120,
+  "domain": 1,
+  "title": "False Positive Rate (FPR)",
+  "file": "s120_0.png",
+  "w": 8.6,
+  "h": 4.6
+ },
+ {
+  "slide": 121,
+  "domain": 1,
+  "title": "Specificity (TNR)",
+  "file": "s121_0.png",
+  "w": 8.9,
+  "h": 4.6
+ },
+ {
+  "slide": 122,
+  "domain": 1,
+  "title": "Receiver Operation Characteristics (ROC)",
+  "file": "s122_0.png",
+  "w": 7.0,
+  "h": 4.7
+ },
+ {
+  "slide": 123,
+  "domain": 1,
+  "title": "Regression Model Errors",
+  "file": "s123_0.png",
+  "w": 5.1,
+  "h": 4.1
+ },
+ {
+  "slide": 126,
+  "domain": 1,
+  "title": "Bias and Variance",
+  "file": "s126_0.png",
+  "w": 1.8,
+  "h": 1.8
+ },
+ {
+  "slide": 133,
+  "domain": 1,
+  "title": "AL/ML Business Metrics",
+  "file": "s133_0.png",
+  "w": 2.5,
+  "h": 4.3
+ },
+ {
+  "slide": 134,
+  "domain": 1,
+  "title": "Lab: Streamlining Document Handling Using Amazon Textract an",
+  "file": "s134_0.png",
+  "w": 3.1,
+  "h": 3.0
+ },
+ {
+  "slide": 135,
+  "domain": 1,
+  "title": "Test Your Knowledge FlashCard",
+  "file": "s135_0.png",
+  "w": 3.2,
+  "h": 3.2
+ },
+ {
+  "slide": 138,
+  "domain": 2,
+  "title": "What is Generative AI",
+  "file": "s138_0.png",
+  "w": 5.5,
+  "h": 4.7
+ },
+ {
+  "slide": 141,
+  "domain": 2,
+  "title": "Generative AI for images",
+  "file": "s141_0.jpg",
+  "w": 3.1,
+  "h": 1.8
+ },
+ {
+  "slide": 142,
+  "domain": 2,
+  "title": "Generative AI for images",
+  "file": "s142_1.jpg",
+  "w": 2.4,
+  "h": 2.4
+ },
+ {
+  "slide": 147,
+  "domain": 2,
+  "title": "Concepts of Generative AI",
+  "file": "s147_0.png",
+  "w": 5.5,
+  "h": 4.7
+ },
+ {
+  "slide": 150,
+  "domain": 2,
+  "title": "Amazon SageMaker Jumpstart",
+  "file": "s150_0.png",
+  "w": 2.0,
+  "h": 4.3
+ },
+ {
+  "slide": 150,
+  "domain": 2,
+  "title": "Amazon SageMaker Jumpstart",
+  "file": "s150_1.png",
+  "w": 5.4,
+  "h": 2.0
+ },
+ {
+  "slide": 151,
+  "domain": 2,
+  "title": "What is a Vector?",
+  "file": "s151_0.png",
+  "w": 9.8,
+  "h": 2.7
+ },
+ {
+  "slide": 152,
+  "domain": 2,
+  "title": "What is a Vector?",
+  "file": "s152_0.png",
+  "w": 9.6,
+  "h": 4.6
+ },
+ {
+  "slide": 154,
+  "domain": 2,
+  "title": "GenAI Concepts \u2013 Context Window",
+  "file": "s154_0.jpg",
+  "w": 4.2,
+  "h": 2.7
+ },
+ {
+  "slide": 157,
+  "domain": 2,
+  "title": "Embedding",
+  "file": "s157_0.png",
+  "w": 9.8,
+  "h": 3.3
+ },
+ {
+  "slide": 158,
+  "domain": 2,
+  "title": "Self Attention",
+  "file": "s158_0.png",
+  "w": 9.8,
+  "h": 4.4
+ },
+ {
+  "slide": 172,
+  "domain": 2,
+  "title": "Business Metric Analysis ML Solution",
+  "file": "s172_0.png",
+  "w": 9.8,
+  "h": 1.6
+ },
+ {
+  "slide": 174,
+  "domain": 2,
+  "title": "Transfer Model",
+  "file": "s174_0.png",
+  "w": 9.8,
+  "h": 4.0
+ },
+ {
+  "slide": 175,
+  "domain": 2,
+  "title": "AWS Cloud Adoption Framework",
+  "file": "s175_0.png",
+  "w": 9.8,
+  "h": 4.5
+ },
+ {
+  "slide": 176,
+  "domain": 2,
+  "title": "AWS AI Stack Security Layers",
+  "file": "s176_0.png",
+  "w": 9.8,
+  "h": 3.8
+ },
+ {
+  "slide": 177,
+  "domain": 2,
+  "title": "Critical Components of AI Systems",
+  "file": "s177_0.png",
+  "w": 5.9,
+  "h": 4.0
+ },
+ {
+  "slide": 179,
+  "domain": 2,
+  "title": "AWS AL Stack",
+  "file": "s179_0.png",
+  "w": 6.9,
+  "h": 4.7
+ },
+ {
+  "slide": 180,
+  "domain": 2,
+  "title": "Foundation Models",
+  "file": "s180_0.png",
+  "w": 2.6,
+  "h": 4.5
+ },
+ {
+  "slide": 181,
+  "domain": 2,
+  "title": "Test Your Knowledge FlashCard",
+  "file": "s181_0.png",
+  "w": 3.7,
+  "h": 3.5
+ },
+ {
+  "slide": 186,
+  "domain": 3,
+  "title": "Architecture and Complexity Considerations",
+  "file": "s186_0.png",
+  "w": 9.6,
+  "h": 4.3
+ },
+ {
+  "slide": 187,
+  "domain": 3,
+  "title": "Architecture and Complexity Considerations",
+  "file": "s187_0.png",
+  "w": 9.8,
+  "h": 2.1
+ },
+ {
+  "slide": 190,
+  "domain": 3,
+  "title": "Inference Parameters",
+  "file": "s190_0.png",
+  "w": 2.6,
+  "h": 4.0
+ },
+ {
+  "slide": 193,
+  "domain": 3,
+  "title": "Amazon Bedrock",
+  "file": "s193_0.png",
+  "w": 7.0,
+  "h": 3.0
+ },
+ {
+  "slide": 197,
+  "domain": 3,
+  "title": "Retrieval Augmented Generation (RAG)",
+  "file": "s197_0.png",
+  "w": 9.8,
+  "h": 4.0
+ },
+ {
+  "slide": 204,
+  "domain": 3,
+  "title": "Lab: RAG",
+  "file": "s204_0.png",
+  "w": 3.0,
+  "h": 3.1
+ },
+ {
+  "slide": 206,
+  "domain": 3,
+  "title": "Amazon Bedrock Agents",
+  "file": "s206_0.png",
+  "w": 9.8,
+  "h": 4.3
+ },
+ {
+  "slide": 214,
+  "domain": 3,
+  "title": "Prompt Engineering Techniques",
+  "file": "s214_0.png",
+  "w": 3.7,
+  "h": 4.3
+ },
+ {
+  "slide": 221,
+  "domain": 3,
+  "title": "Prompt Performance Optimization",
+  "file": "s221_0.png",
+  "w": 1.8,
+  "h": 4.0
+ },
+ {
+  "slide": 232,
+  "domain": 3,
+  "title": "Latent Space",
+  "file": "s232_0.png",
+  "w": 9.8,
+  "h": 1.7
+ },
+ {
+  "slide": 233,
+  "domain": 3,
+  "title": "Latent Space",
+  "file": "s233_0.png",
+  "w": 9.8,
+  "h": 4.1
+ },
+ {
+  "slide": 256,
+  "domain": 3,
+  "title": "Model Integration",
+  "file": "s256_0.png",
+  "w": 7.0,
+  "h": 3.0
+ },
+ {
+  "slide": 257,
+  "domain": 3,
+  "title": "Generative AI Application Stack",
+  "file": "s257_0.png",
+  "w": 7.1,
+  "h": 4.6
+ },
+ {
+  "slide": 267,
+  "domain": 3,
+  "title": "AI code companion to help you code new applications (similar",
+  "file": "s267_0.jpg",
+  "w": 4.2,
+  "h": 3.5
+ },
+ {
+  "slide": 269,
+  "domain": 3,
+  "title": "PartyRock",
+  "file": "s269_0.jpg",
+  "w": 4.5,
+  "h": 2.3
+ },
+ {
+  "slide": 270,
+  "domain": 3,
+  "title": "Lab: Amazon Q",
+  "file": "s270_0.png",
+  "w": 3.3,
+  "h": 3.4
+ },
+ {
+  "slide": 271,
+  "domain": 3,
+  "title": "Test Your Knowledge FlashCard",
+  "file": "s271_0.png",
+  "w": 3.3,
+  "h": 3.3
+ },
+ {
+  "slide": 276,
+  "domain": 4,
+  "title": "Class Imbalance",
+  "file": "s276_0.png",
+  "w": 4.7,
+  "h": 3.8
+ },
+ {
+  "slide": 277,
+  "domain": 4,
+  "title": "Responsible Datasets",
+  "file": "s277_0.png",
+  "w": 4.2,
+  "h": 4.0
+ },
+ {
+  "slide": 278,
+  "domain": 4,
+  "title": "Responsible Practices for Model Selection",
+  "file": "s278_0.png",
+  "w": 9.2,
+  "h": 4.6
+ },
+ {
+  "slide": 280,
+  "domain": 4,
+  "title": "Amazon Clarify Processing Jobs",
+  "file": "s280_0.png",
+  "w": 9.8,
+  "h": 3.5
+ },
+ {
+  "slide": 282,
+  "domain": 4,
+  "title": "Generative AI Risks",
+  "file": "s282_0.png",
+  "w": 8.9,
+  "h": 4.6
+ },
+ {
+  "slide": 283,
+  "domain": 4,
+  "title": "Guardrails for Amazon Bedrock",
+  "file": "s283_0.png",
+  "w": 9.8,
+  "h": 4.1
+ },
+ {
+  "slide": 286,
+  "domain": 4,
+  "title": "Model Transparency",
+  "file": "s286_0.png",
+  "w": 9.8,
+  "h": 1.9
+ },
+ {
+  "slide": 287,
+  "domain": 4,
+  "title": "Interpretability Compared to Performance",
+  "file": "s287_0.png",
+  "w": 9.8,
+  "h": 2.8
+ },
+ {
+  "slide": 288,
+  "domain": 4,
+  "title": "Open Source AI Models",
+  "file": "s288_0.png",
+  "w": 3.8,
+  "h": 4.2
+ },
+ {
+  "slide": 290,
+  "domain": 4,
+  "title": "SageMaker Clarify Model Explainability",
+  "file": "s290_0.png",
+  "w": 5.5,
+  "h": 4.5
+ },
+ {
+  "slide": 290,
+  "domain": 4,
+  "title": "SageMaker Clarify Model Explainability",
+  "file": "s290_1.png",
+  "w": 4.3,
+  "h": 3.1
+ },
+ {
+  "slide": 291,
+  "domain": 4,
+  "title": "What is Human Centered AI",
+  "file": "s291_0.png",
+  "w": 3.4,
+  "h": 4.6
+ },
+ {
+  "slide": 292,
+  "domain": 4,
+  "title": "Amazon Augmented AI",
+  "file": "s292_0.png",
+  "w": 9.8,
+  "h": 3.8
+ },
+ {
+  "slide": 293,
+  "domain": 4,
+  "title": "Transparency and Model Safety",
+  "file": "s293_0.png",
+  "w": 6.5,
+  "h": 4.8
+ },
+ {
+  "slide": 294,
+  "domain": 4,
+  "title": "Reinforcement Learning from Feedback (RLHF)",
+  "file": "s294_0.png",
+  "w": 9.5,
+  "h": 4.6
+ },
+ {
+  "slide": 295,
+  "domain": 4,
+  "title": "Amazon SageMaker Ground Truth",
+  "file": "s295_0.png",
+  "w": 8.8,
+  "h": 4.6
+ },
+ {
+  "slide": 296,
+  "domain": 4,
+  "title": "Test Your Knowledge FlashCard",
+  "file": "s296_0.png",
+  "w": 3.9,
+  "h": 3.7
+ },
+ {
+  "slide": 300,
+  "domain": 5,
+  "title": "AWS Shared Responsibility Model",
+  "file": "s300_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 301,
+  "domain": 5,
+  "title": "AWS: Security of the Cloud",
+  "file": "s301_0.png",
+  "w": 9.8,
+  "h": 2.2
+ },
+ {
+  "slide": 302,
+  "domain": 5,
+  "title": "Customers: Security in the Cloud",
+  "file": "s302_0.png",
+  "w": 9.8,
+  "h": 2.3
+ },
+ {
+  "slide": 303,
+  "domain": 5,
+  "title": "",
+  "file": "s303_0.png",
+  "w": 9.8,
+  "h": 3.9
+ },
+ {
+  "slide": 304,
+  "domain": 5,
+  "title": "IAM Features",
+  "file": "s304_0.png",
+  "w": 9.7,
+  "h": 4.6
+ },
+ {
+  "slide": 305,
+  "domain": 5,
+  "title": "Root Account Best Practices",
+  "file": "s305_0.png",
+  "w": 9.8,
+  "h": 3.8
+ },
+ {
+  "slide": 306,
+  "domain": 5,
+  "title": "Multi Factor Authentication",
+  "file": "s306_0.png",
+  "w": 9.8,
+  "h": 4.0
+ },
+ {
+  "slide": 307,
+  "domain": 5,
+  "title": "IAM Users",
+  "file": "s307_0.png",
+  "w": 2.8,
+  "h": 3.6
+ },
+ {
+  "slide": 308,
+  "domain": 5,
+  "title": "IAM Policies",
+  "file": "s308_0.png",
+  "w": 5.6,
+  "h": 3.5
+ },
+ {
+  "slide": 309,
+  "domain": 5,
+  "title": "IAM Group",
+  "file": "s309_0.png",
+  "w": 4.4,
+  "h": 4.5
+ },
+ {
+  "slide": 310,
+  "domain": 5,
+  "title": "IAM Roles",
+  "file": "s310_0.png",
+  "w": 4.6,
+  "h": 4.3
+ },
+ {
+  "slide": 311,
+  "domain": 5,
+  "title": "Resource-Based Policies",
+  "file": "s311_0.png",
+  "w": 5.7,
+  "h": 4.2
+ },
+ {
+  "slide": 314,
+  "domain": 5,
+  "title": "Amazon S3 - Block Public Access",
+  "file": "s314_0.png",
+  "w": 7.9,
+  "h": 3.0
+ },
+ {
+  "slide": 315,
+  "domain": 5,
+  "title": "Amazon SageMaker Role Manager",
+  "file": "s315_0.png",
+  "w": 6.5,
+  "h": 3.1
+ },
+ {
+  "slide": 317,
+  "domain": 5,
+  "title": "Encryption at Rest",
+  "file": "s317_0.png",
+  "w": 8.4,
+  "h": 2.1
+ },
+ {
+  "slide": 319,
+  "domain": 5,
+  "title": "Amazon Macie",
+  "file": "s319_0.png",
+  "w": 2.2,
+  "h": 3.7
+ },
+ {
+  "slide": 320,
+  "domain": 5,
+  "title": "Amazon SageMaker and VPCs",
+  "file": "s320_0.png",
+  "w": 9.7,
+  "h": 3.5
+ },
+ {
+  "slide": 321,
+  "domain": 5,
+  "title": "VPC Interface Endpoints (AWS PrivateLink)",
+  "file": "s321_0.png",
+  "w": 9.8,
+  "h": 4.3
+ },
+ {
+  "slide": 323,
+  "domain": 5,
+  "title": "AI System Vulnerabilities",
+  "file": "s323_0.png",
+  "w": 5.5,
+  "h": 4.5
+ },
+ {
+  "slide": 329,
+  "domain": 5,
+  "title": "Lab: Generative BI Business",
+  "file": "s329_0.png",
+  "w": 3.2,
+  "h": 3.2
+ },
+ {
+  "slide": 331,
+  "domain": 5,
+  "title": "Amazon SageMaker ML Lineage Tracking",
+  "file": "s331_0.png",
+  "w": 7.7,
+  "h": 2.3
+ },
+ {
+  "slide": 335,
+  "domain": 5,
+  "title": "AWS Shared Responsibility Model",
+  "file": "s335_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 336,
+  "domain": 5,
+  "title": "AWS Artifact",
+  "file": "s336_0.png",
+  "w": 9.8,
+  "h": 3.0
+ },
+ {
+  "slide": 337,
+  "domain": 5,
+  "title": "Compliance Programs",
+  "file": "s337_0.png",
+  "w": 9.8,
+  "h": 4.0
+ },
+ {
+  "slide": 338,
+  "domain": 5,
+  "title": "Customer Compliance Center",
+  "file": "s338_0.png",
+  "w": 9.8,
+  "h": 3.6
+ },
+ {
+  "slide": 339,
+  "domain": 5,
+  "title": "Emerging AI Compliance Standards",
+  "file": "s339_0.png",
+  "w": 2.7,
+  "h": 4.3
+ },
+ {
+  "slide": 340,
+  "domain": 5,
+  "title": "Emerging Risk Management",
+  "file": "s340_0.png",
+  "w": 4.7,
+  "h": 2.4
+ },
+ {
+  "slide": 340,
+  "domain": 5,
+  "title": "Emerging Risk Management",
+  "file": "s340_1.png",
+  "w": 5.1,
+  "h": 3.8
+ },
+ {
+  "slide": 341,
+  "domain": 5,
+  "title": "Algorithmic Accountability Act",
+  "file": "s341_0.png",
+  "w": 3.0,
+  "h": 3.5
+ },
+ {
+  "slide": 344,
+  "domain": 5,
+  "title": "Guardrails for AWS Bedrock",
+  "file": "s344_0.png",
+  "w": 4.5,
+  "h": 4.6
+ },
+ {
+  "slide": 344,
+  "domain": 5,
+  "title": "Guardrails for AWS Bedrock",
+  "file": "s344_1.png",
+  "w": 5.0,
+  "h": 3.3
+ },
+ {
+  "slide": 346,
+  "domain": 5,
+  "title": "AWS Config",
+  "file": "s346_0.png",
+  "w": 7.9,
+  "h": 2.2
+ },
+ {
+  "slide": 347,
+  "domain": 5,
+  "title": "AWS Inspector",
+  "file": "s347_0.png",
+  "w": 8.0,
+  "h": 3.2
+ },
+ {
+  "slide": 348,
+  "domain": 5,
+  "title": "AWS Trust Advisor",
+  "file": "s348_0.png",
+  "w": 7.4,
+  "h": 2.4
+ },
+ {
+  "slide": 349,
+  "domain": 5,
+  "title": "What is Data Governance",
+  "file": "s349_0.png",
+  "w": 4.6,
+  "h": 4.5
+ },
+ {
+  "slide": 350,
+  "domain": 5,
+  "title": "Data Governance Strategies",
+  "file": "s350_0.png",
+  "w": 4.1,
+  "h": 4.3
+ },
+ {
+  "slide": 351,
+  "domain": 5,
+  "title": "Discovery and Understanding",
+  "file": "s351_0.png",
+  "w": 3.3,
+  "h": 4.3
+ },
+ {
+  "slide": 352,
+  "domain": 5,
+  "title": "AWS Glue Databrew for Data Governance",
+  "file": "s352_0.png",
+  "w": 8.5,
+  "h": 2.2
+ },
+ {
+  "slide": 353,
+  "domain": 5,
+  "title": "Data Curation",
+  "file": "s353_0.png",
+  "w": 3.2,
+  "h": 3.8
+ },
+ {
+  "slide": 354,
+  "domain": 5,
+  "title": "AWS Glue for Data Governance",
+  "file": "s354_0.png",
+  "w": 6.0,
+  "h": 1.9
+ },
+ {
+  "slide": 355,
+  "domain": 5,
+  "title": "Protection",
+  "file": "s355_0.png",
+  "w": 3.1,
+  "h": 4.1
+ },
+ {
+  "slide": 356,
+  "domain": 5,
+  "title": "AWS Lake Formation",
+  "file": "s356_0.png",
+  "w": 4.6,
+  "h": 4.6
+ },
+ {
+  "slide": 357,
+  "domain": 5,
+  "title": "Amazon S3 Lifecycle Policies",
+  "file": "s357_0.png",
+  "w": 7.4,
+  "h": 2.3
+ },
+ {
+  "slide": 358,
+  "domain": 5,
+  "title": "Determine Your Scope",
+  "file": "s358_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 359,
+  "domain": 5,
+  "title": "Determine Your Scope",
+  "file": "s359_0.png",
+  "w": 9.8,
+  "h": 4.2
+ },
+ {
+  "slide": 362,
+  "domain": 5,
+  "title": "Lab: Securing Data in Amazon S3 Using Macie and AWS KMS",
+  "file": "s362_0.png",
+  "w": 3.0,
+  "h": 3.0
+ },
+ {
+  "slide": 363,
+  "domain": 5,
+  "title": "Test Your Knowledge FlashCard",
+  "file": "s363_0.png",
+  "w": 3.7,
+  "h": 3.7
+ },
+ {
+  "slide": 364,
+  "domain": 5,
+  "title": "Lab: Escape Room for AWS Exam Prep",
+  "file": "s364_0.png",
+  "w": 3.7,
+  "h": 3.8
+ },
+ {
+  "slide": 364,
+  "domain": 5,
+  "title": "Lab: Escape Room for AWS Exam Prep",
+  "file": "s364_1.png",
+  "w": 3.9,
+  "h": 4.1
+ },
+ {
+  "slide": 365,
+  "domain": 5,
+  "title": "AWS Certified AI Practitioner (AIF-C01) Practice Exam",
+  "file": "s365_0.png",
+  "w": 3.4,
+  "h": 3.6
+ },
+ {
+  "slide": 366,
+  "domain": 5,
+  "title": "AWS Certified AI Practitioner (AIF-C01) Exam Prep",
+  "file": "s366_0.png",
+  "w": 3.0,
+  "h": 3.2
+ },
+ {
+  "slide": 367,
+  "domain": 5,
+  "title": "Practice Exams",
+  "file": "s367_0.png",
+  "w": 3.8,
+  "h": 2.9
+ },
+ {
+  "slide": 367,
+  "domain": 5,
+  "title": "Practice Exams",
+  "file": "s367_1.png",
+  "w": 3.8,
+  "h": 3.8
+ },
+ {
+  "slide": 369,
+  "domain": 5,
+  "title": "Cert & TRAQOM Survey (Mandatory)",
+  "file": "s369_0.png",
+  "w": 9.7,
+  "h": 3.5
+ }
+]

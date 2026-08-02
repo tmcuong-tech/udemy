@@ -1,0 +1,19 @@
+{
+  "title": "Lab 18 — Evaluating Foundation Model Performance",
+  "description": "Run an Amazon Bedrock automatic model evaluation job against your own dataset, interpret the results critically, and place ROUGE, BLEU, BERTScore, benchmarks, human review and business metrics in a complete evaluation strategy.",
+  "difficulty": "intermediate",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Why evaluate, and build a test set", "text": "step1/text.md" },
+      { "title": "Step 2: The automatic metrics", "text": "step2/text.md" },
+      { "title": "Step 3: Run an automatic evaluation job", "text": "step3/text.md" },
+      { "title": "Step 4: Interpret the results", "text": "step4/text.md" },
+      { "title": "Step 5: Human evaluation, benchmarks, and business metrics", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

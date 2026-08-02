@@ -1,0 +1,19 @@
+{
+  "title": "Lab 06 — Amazon Bedrock Getting Started",
+  "description": "Enable foundation model access in Amazon Bedrock, explore the model catalogue, and run your first prompt in the playground.",
+  "difficulty": "beginner",
+  "time": "30",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Open Amazon Bedrock and choose a Region", "text": "step1/text.md" },
+      { "title": "Step 2: Request access to foundation models", "text": "step2/text.md" },
+      { "title": "Step 3: Explore the model catalogue", "text": "step3/text.md" },
+      { "title": "Step 4: Run your first prompt in the playground", "text": "step4/text.md" },
+      { "title": "Step 5: See the same catalogue from the AWS CLI", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

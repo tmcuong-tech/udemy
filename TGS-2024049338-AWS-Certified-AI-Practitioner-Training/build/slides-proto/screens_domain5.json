@@ -1,0 +1,242 @@
+[
+ {
+  "file": "s300_0.png",
+  "title": "AWS Shared Responsibility Model",
+  "slide": 300
+ },
+ {
+  "file": "s301_0.png",
+  "title": "AWS: Security of the Cloud",
+  "slide": 301
+ },
+ {
+  "file": "s302_0.png",
+  "title": "Customers: Security in the Cloud",
+  "slide": 302
+ },
+ {
+  "file": "s303_0.png",
+  "title": "",
+  "slide": 303
+ },
+ {
+  "file": "s304_0.png",
+  "title": "IAM Features",
+  "slide": 304
+ },
+ {
+  "file": "s305_0.png",
+  "title": "Root Account Best Practices",
+  "slide": 305
+ },
+ {
+  "file": "s306_0.png",
+  "title": "Multi Factor Authentication",
+  "slide": 306
+ },
+ {
+  "file": "s307_0.png",
+  "title": "IAM Users",
+  "slide": 307
+ },
+ {
+  "file": "s308_0.png",
+  "title": "IAM Policies",
+  "slide": 308
+ },
+ {
+  "file": "s309_0.png",
+  "title": "IAM Group",
+  "slide": 309
+ },
+ {
+  "file": "s310_0.png",
+  "title": "IAM Roles",
+  "slide": 310
+ },
+ {
+  "file": "s311_0.png",
+  "title": "Resource-Based Policies",
+  "slide": 311
+ },
+ {
+  "file": "s314_0.png",
+  "title": "Amazon S3 - Block Public Access",
+  "slide": 314
+ },
+ {
+  "file": "s315_0.png",
+  "title": "Amazon SageMaker Role Manager",
+  "slide": 315
+ },
+ {
+  "file": "s317_0.png",
+  "title": "Encryption at Rest",
+  "slide": 317
+ },
+ {
+  "file": "s319_0.png",
+  "title": "Amazon Macie",
+  "slide": 319
+ },
+ {
+  "file": "s320_0.png",
+  "title": "Amazon SageMaker and VPCs",
+  "slide": 320
+ },
+ {
+  "file": "s321_0.png",
+  "title": "VPC Interface Endpoints (AWS PrivateLink)",
+  "slide": 321
+ },
+ {
+  "file": "s323_0.png",
+  "title": "AI System Vulnerabilities",
+  "slide": 323
+ },
+ {
+  "file": "s329_0.png",
+  "title": "Lab: Generative BI Business",
+  "slide": 329
+ },
+ {
+  "file": "s331_0.png",
+  "title": "Amazon SageMaker ML Lineage Tracking",
+  "slide": 331
+ },
+ {
+  "file": "s336_0.png",
+  "title": "AWS Artifact",
+  "slide": 336
+ },
+ {
+  "file": "s337_0.png",
+  "title": "Compliance Programs",
+  "slide": 337
+ },
+ {
+  "file": "s338_0.png",
+  "title": "Customer Compliance Center",
+  "slide": 338
+ },
+ {
+  "file": "s339_0.png",
+  "title": "Emerging AI Compliance Standards",
+  "slide": 339
+ },
+ {
+  "file": "s340_0.png",
+  "title": "Emerging Risk Management",
+  "slide": 340
+ },
+ {
+  "file": "s341_0.png",
+  "title": "Algorithmic Accountability Act",
+  "slide": 341
+ },
+ {
+  "file": "s344_0.png",
+  "title": "Guardrails for AWS Bedrock",
+  "slide": 344
+ },
+ {
+  "file": "s346_0.png",
+  "title": "AWS Config",
+  "slide": 346
+ },
+ {
+  "file": "s347_0.png",
+  "title": "AWS Inspector",
+  "slide": 347
+ },
+ {
+  "file": "s348_0.png",
+  "title": "AWS Trust Advisor",
+  "slide": 348
+ },
+ {
+  "file": "s349_0.png",
+  "title": "What is Data Governance",
+  "slide": 349
+ },
+ {
+  "file": "s350_0.png",
+  "title": "Data Governance Strategies",
+  "slide": 350
+ },
+ {
+  "file": "s351_0.png",
+  "title": "Discovery and Understanding",
+  "slide": 351
+ },
+ {
+  "file": "s352_0.png",
+  "title": "AWS Glue Databrew for Data Governance",
+  "slide": 352
+ },
+ {
+  "file": "s353_0.png",
+  "title": "Data Curation",
+  "slide": 353
+ },
+ {
+  "file": "s354_0.png",
+  "title": "AWS Glue for Data Governance",
+  "slide": 354
+ },
+ {
+  "file": "s355_0.png",
+  "title": "Protection",
+  "slide": 355
+ },
+ {
+  "file": "s356_0.png",
+  "title": "AWS Lake Formation",
+  "slide": 356
+ },
+ {
+  "file": "s357_0.png",
+  "title": "Amazon S3 Lifecycle Policies",
+  "slide": 357
+ },
+ {
+  "file": "s358_0.png",
+  "title": "Determine Your Scope",
+  "slide": 358
+ },
+ {
+  "file": "s362_0.png",
+  "title": "Lab: Securing Data in Amazon S3 Using Macie and AWS KMS",
+  "slide": 362
+ },
+ {
+  "file": "s363_0.png",
+  "title": "Test Your Knowledge FlashCard",
+  "slide": 363
+ },
+ {
+  "file": "s364_0.png",
+  "title": "Lab: Escape Room for AWS Exam Prep",
+  "slide": 364
+ },
+ {
+  "file": "s365_0.png",
+  "title": "AWS Certified AI Practitioner (AIF-C01) Practice Exam",
+  "slide": 365
+ },
+ {
+  "file": "s366_0.png",
+  "title": "AWS Certified AI Practitioner (AIF-C01) Exam Prep",
+  "slide": 366
+ },
+ {
+  "file": "s367_0.png",
+  "title": "Practice Exams",
+  "slide": 367
+ },
+ {
+  "file": "s369_0.png",
+  "title": "Cert & TRAQOM Survey (Mandatory)",
+  "slide": 369
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Lab 19 — Amazon Bedrock Guardrails",
+  "description": "Create a Bedrock guardrail with content filters, denied topics, word filters and PII filters, then test it and record which policy blocks each prompt.",
+  "difficulty": "beginner",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Create the guardrail and set blocked messages", "text": "step1/text.md" },
+      { "title": "Step 2: Configure content filters", "text": "step2/text.md" },
+      { "title": "Step 3: Configure denied topics", "text": "step3/text.md" },
+      { "title": "Step 4: Configure word filters", "text": "step4/text.md" },
+      { "title": "Step 5: Configure sensitive information filters (PII)", "text": "step5/text.md" },
+      { "title": "Step 6: Test the guardrail and record findings", "text": "step6/text.md" },
+      { "title": "Step 7: Clean up", "text": "step7/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

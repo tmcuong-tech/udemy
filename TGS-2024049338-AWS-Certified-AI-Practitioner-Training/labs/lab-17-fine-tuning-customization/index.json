@@ -1,0 +1,19 @@
+{
+  "title": "Lab 17 — Fine-Tuning and Model Customisation",
+  "description": "Prepare a fine-tuning dataset and walk through a Bedrock custom model job configuration without submitting it, then decide between prompt engineering, RAG, fine-tuning and continued pre-training on cost, effort and data.",
+  "difficulty": "intermediate",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: The customisation decision", "text": "step1/text.md" },
+      { "title": "Step 2: Prepare a fine-tuning dataset", "text": "step2/text.md" },
+      { "title": "Step 3: Configure a custom model job — do not submit", "text": "step3/text.md" },
+      { "title": "Step 4: Provisioned throughput, and why you stop here", "text": "step4/text.md" },
+      { "title": "Step 5: Apply the decision to real scenarios", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

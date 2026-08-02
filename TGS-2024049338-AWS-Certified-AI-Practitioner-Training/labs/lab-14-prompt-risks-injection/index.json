@@ -1,0 +1,19 @@
+{
+  "title": "Lab 14 — Prompt Misuse, Injection and Defences",
+  "description": "Probe a triage application you built and own with benign, educational inputs, then build a five-layer defence covering prompt hardening, input validation, output filtering, Amazon Bedrock Guardrails and least privilege.",
+  "difficulty": "intermediate",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: The application you own, and its threat model", "text": "step1/text.md" },
+      { "title": "Step 2: The four risk classes", "text": "step2/text.md" },
+      { "title": "Step 3: Probe your own application", "text": "step3/text.md" },
+      { "title": "Step 4: Defence layers 1 and 2 — prompt hardening and input validation", "text": "step4/text.md" },
+      { "title": "Step 5: Defence layers 3 and 4 — output filtering and Guardrails", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

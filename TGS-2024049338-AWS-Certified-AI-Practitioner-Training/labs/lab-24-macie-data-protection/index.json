@@ -1,0 +1,19 @@
+{
+  "title": "Lab 24 — Data Protection with Amazon Macie",
+  "description": "Use Amazon Macie to discover synthetic personal data in an S3 bucket, read the findings and connect them to the controls that keep PII out of training data and prompts.",
+  "difficulty": "intermediate",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Why PII must never reach training data or prompts", "text": "step1/text.md" },
+      { "title": "Step 2: Create a bucket and upload synthetic sample data", "text": "step2/text.md" },
+      { "title": "Step 3: Enable Amazon Macie", "text": "step3/text.md" },
+      { "title": "Step 4: Create a custom data identifier and run a discovery job", "text": "step4/text.md" },
+      { "title": "Step 5: Read the findings and turn them into data controls", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

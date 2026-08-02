@@ -1,0 +1,314 @@
+{
+ "total_slides": 374,
+ "markers": [
+  {
+   "kind": "topic",
+   "id": 1,
+   "title": "Generative AI for Executives",
+   "slide": 23
+  },
+  {
+   "kind": "domain",
+   "id": 1,
+   "title": "Fundamentals of AI and ML",
+   "slide": 24
+  },
+  {
+   "kind": "task",
+   "id": "1.1",
+   "title": "Explain Basic AI Concepts and Terminologies",
+   "slide": 25
+  },
+  {
+   "kind": "task",
+   "id": "1.2",
+   "title": "Identify Practical Use Cases for AI",
+   "slide": 52
+  },
+  {
+   "kind": "task",
+   "id": "1.3",
+   "title": "Describe the ML Development Lifecycle",
+   "slide": 84
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: SageMaker",
+   "slide": 111
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Streamlining Document Handling Using Amazon Textract and Amazon Polly",
+   "slide": 134
+  },
+  {
+   "kind": "domain",
+   "id": 2,
+   "title": "Fundamentals of Generative AI",
+   "slide": 136
+  },
+  {
+   "kind": "task",
+   "id": "2.1",
+   "title": "Explain the Basic Concepts of Generative AI",
+   "slide": 137
+  },
+  {
+   "kind": "task",
+   "id": "2.2",
+   "title": "Understand the Capabilities and Limitations of Generative AI for Solving Business Problems",
+   "slide": 165
+  },
+  {
+   "kind": "task",
+   "id": "2.3",
+   "title": "Describe AWS Infrastructure and technologies for building generative AI applications",
+   "slide": 173
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Amazon Bedrock",
+   "slide": 182
+  },
+  {
+   "kind": "domain",
+   "id": 3,
+   "title": "Applications of Foundation Models",
+   "slide": 183
+  },
+  {
+   "kind": "task",
+   "id": "3.1",
+   "title": "Describe Design Considerations For Applications that Use FMS",
+   "slide": 184
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: RAG",
+   "slide": 204
+  },
+  {
+   "kind": "task",
+   "id": "3.2",
+   "title": "Choose Effective Prompt Engineering Techniques",
+   "slide": 210
+  },
+  {
+   "kind": "task",
+   "id": "3.3",
+   "title": "Describe the Training and Fine Tuning Process for FMS",
+   "slide": 236
+  },
+  {
+   "kind": "task",
+   "id": "3.4",
+   "title": "Describe Methods to Evaluate Foundation Model Performance",
+   "slide": 248
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Amazon Q",
+   "slide": 270
+  },
+  {
+   "kind": "domain",
+   "id": 4,
+   "title": "Guidelines for Responsible AI",
+   "slide": 272
+  },
+  {
+   "kind": "task",
+   "id": "4.1",
+   "title": "Explain the Development of AI Systems that are Responsible",
+   "slide": 273
+  },
+  {
+   "kind": "task",
+   "id": "4.2",
+   "title": "Recognize The Importance of Transparency and Explainable Models",
+   "slide": 285
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Responsible AI",
+   "slide": 297
+  },
+  {
+   "kind": "domain",
+   "id": 5,
+   "title": "Security, Compliance, and Governance for AI Solutions",
+   "slide": 298
+  },
+  {
+   "kind": "task",
+   "id": "5.1",
+   "title": "Explain Methods to Secure AI Systems",
+   "slide": 299
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Generative BI Business",
+   "slide": 329
+  },
+  {
+   "kind": "task",
+   "id": "5.2",
+   "title": "Recognize Governance and Compliance Regulations for AI Systems",
+   "slide": 334
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Securing Data in Amazon S3 Using Macie and AWS KMS",
+   "slide": 362
+  },
+  {
+   "kind": "lab",
+   "id": null,
+   "title": "Lab: Escape Room for AWS Exam Prep",
+   "slide": 364
+  }
+ ],
+ "ranges": {
+  "domain1": {
+   "kind": "domain",
+   "id": 1,
+   "title": "Fundamentals of AI and ML",
+   "start": 24,
+   "end": 24
+  },
+  "task1.1": {
+   "kind": "task",
+   "id": "1.1",
+   "title": "Explain Basic AI Concepts and Terminologies",
+   "start": 25,
+   "end": 51
+  },
+  "task1.2": {
+   "kind": "task",
+   "id": "1.2",
+   "title": "Identify Practical Use Cases for AI",
+   "start": 52,
+   "end": 83
+  },
+  "task1.3": {
+   "kind": "task",
+   "id": "1.3",
+   "title": "Describe the ML Development Lifecycle",
+   "start": 84,
+   "end": 135
+  },
+  "domain2": {
+   "kind": "domain",
+   "id": 2,
+   "title": "Fundamentals of Generative AI",
+   "start": 136,
+   "end": 136
+  },
+  "task2.1": {
+   "kind": "task",
+   "id": "2.1",
+   "title": "Explain the Basic Concepts of Generative AI",
+   "start": 137,
+   "end": 164
+  },
+  "task2.2": {
+   "kind": "task",
+   "id": "2.2",
+   "title": "Understand the Capabilities and Limitations of Generative AI for Solving Business Problems",
+   "start": 165,
+   "end": 172
+  },
+  "task2.3": {
+   "kind": "task",
+   "id": "2.3",
+   "title": "Describe AWS Infrastructure and technologies for building generative AI applications",
+   "start": 173,
+   "end": 182
+  },
+  "domain3": {
+   "kind": "domain",
+   "id": 3,
+   "title": "Applications of Foundation Models",
+   "start": 183,
+   "end": 183
+  },
+  "task3.1": {
+   "kind": "task",
+   "id": "3.1",
+   "title": "Describe Design Considerations For Applications that Use FMS",
+   "start": 184,
+   "end": 209
+  },
+  "task3.2": {
+   "kind": "task",
+   "id": "3.2",
+   "title": "Choose Effective Prompt Engineering Techniques",
+   "start": 210,
+   "end": 235
+  },
+  "task3.3": {
+   "kind": "task",
+   "id": "3.3",
+   "title": "Describe the Training and Fine Tuning Process for FMS",
+   "start": 236,
+   "end": 247
+  },
+  "task3.4": {
+   "kind": "task",
+   "id": "3.4",
+   "title": "Describe Methods to Evaluate Foundation Model Performance",
+   "start": 248,
+   "end": 271
+  },
+  "domain4": {
+   "kind": "domain",
+   "id": 4,
+   "title": "Guidelines for Responsible AI",
+   "start": 272,
+   "end": 272
+  },
+  "task4.1": {
+   "kind": "task",
+   "id": "4.1",
+   "title": "Explain the Development of AI Systems that are Responsible",
+   "start": 273,
+   "end": 284
+  },
+  "task4.2": {
+   "kind": "task",
+   "id": "4.2",
+   "title": "Recognize The Importance of Transparency and Explainable Models",
+   "start": 285,
+   "end": 297
+  },
+  "domain5": {
+   "kind": "domain",
+   "id": 5,
+   "title": "Security, Compliance, and Governance for AI Solutions",
+   "start": 298,
+   "end": 298
+  },
+  "task5.1": {
+   "kind": "task",
+   "id": "5.1",
+   "title": "Explain Methods to Secure AI Systems",
+   "start": 299,
+   "end": 333
+  },
+  "task5.2": {
+   "kind": "task",
+   "id": "5.2",
+   "title": "Recognize Governance and Compliance Regulations for AI Systems",
+   "start": 334,
+   "end": 374
+  }
+ }
+}

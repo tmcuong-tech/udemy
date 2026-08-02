@@ -1,0 +1,20 @@
+{
+  "title": "Lab 15 — RAG with Knowledge Bases for Amazon Bedrock",
+  "description": "Build a retrieval augmented generation pipeline over your own documents with Knowledge Bases for Amazon Bedrock, read the citations, and prove the difference against an ungrounded model.",
+  "difficulty": "intermediate",
+  "time": "45",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Cost warning, and prepare the S3 data source", "text": "step1/text.md" },
+      { "title": "Step 2: How RAG works", "text": "step2/text.md" },
+      { "title": "Step 3: Create the knowledge base", "text": "step3/text.md" },
+      { "title": "Step 4: Sync the data source", "text": "step4/text.md" },
+      { "title": "Step 5: Retrieve and generate, and read the citations", "text": "step5/text.md" },
+      { "title": "Step 6: Compare against the no-context baseline", "text": "step6/text.md" },
+      { "title": "Step 7: Clean up", "text": "step7/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

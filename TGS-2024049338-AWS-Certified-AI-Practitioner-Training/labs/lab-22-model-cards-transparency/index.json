@@ -1,0 +1,19 @@
+{
+  "title": "Lab 22 — Model Cards and Transparency",
+  "description": "Create a SageMaker model card and complete each section, then distinguish model cards from Model Monitor and the Model Registry and examine AWS AI Service Cards.",
+  "difficulty": "beginner",
+  "time": "30",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Create a model card and declare intended use", "text": "step1/text.md" },
+      { "title": "Step 2: Set the risk rating and record training details", "text": "step2/text.md" },
+      { "title": "Step 3: Record evaluation results and caveats", "text": "step3/text.md" },
+      { "title": "Step 4: Model cards versus Model Monitor versus Model Registry", "text": "step4/text.md" },
+      { "title": "Step 5: AWS AI Service Cards and the transparency you inherit", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

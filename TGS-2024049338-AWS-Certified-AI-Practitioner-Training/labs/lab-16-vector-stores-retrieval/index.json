@@ -1,0 +1,19 @@
+{
+  "title": "Lab 16 — Vector Stores and Retrieval Quality",
+  "description": "Tune the retrieval half of a RAG pipeline — chunk size, overlap, top-K and metadata filtering — and learn to tell a retrieval failure from a generation failure.",
+  "difficulty": "intermediate",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Set up and measure a baseline", "text": "step1/text.md" },
+      { "title": "Step 2: Chunk size and overlap", "text": "step2/text.md" },
+      { "title": "Step 3: Top-K", "text": "step3/text.md" },
+      { "title": "Step 4: Metadata filtering", "text": "step4/text.md" },
+      { "title": "Step 5: Diagnose a bad answer", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

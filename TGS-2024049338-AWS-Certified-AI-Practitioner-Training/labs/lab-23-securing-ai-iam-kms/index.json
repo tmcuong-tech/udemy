@@ -1,0 +1,19 @@
+{
+  "title": "Lab 23 — Securing AI Workloads with IAM and KMS",
+  "description": "Apply least-privilege IAM policies, customer managed KMS keys and VPC endpoints to secure an AI workload, and locate the boundary of the AWS shared responsibility model.",
+  "difficulty": "intermediate",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Map the shared responsibility model onto an AI workload", "text": "step1/text.md" },
+      { "title": "Step 2: Write a least-privilege IAM policy scoped to specific Bedrock models", "text": "step2/text.md" },
+      { "title": "Step 3: Create a KMS customer managed key for AI data", "text": "step3/text.md" },
+      { "title": "Step 4: Encrypt a training data bucket at rest, and understand encryption in transit", "text": "step4/text.md" },
+      { "title": "Step 5: Keep AI traffic off the public internet with VPC endpoints", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

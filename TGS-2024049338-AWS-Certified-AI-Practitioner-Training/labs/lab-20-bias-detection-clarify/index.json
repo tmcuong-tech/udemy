@@ -1,0 +1,19 @@
+{
+  "title": "Lab 20 — Bias Detection with SageMaker Clarify",
+  "description": "Frame a fairness question as facet, label and positive outcome, then compare pre-training and post-training bias metrics using either your own Clarify job or a guided bias report walkthrough.",
+  "difficulty": "intermediate",
+  "time": "40",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Frame the fairness question: facet, label and positive outcome", "text": "step1/text.md" },
+      { "title": "Step 2: Pre-training bias metrics: measuring the data", "text": "step2/text.md" },
+      { "title": "Step 3: Post-training bias metrics: measuring the model", "text": "step3/text.md" },
+      { "title": "Step 4: Path 1: run a Clarify bias job against your own model", "text": "step4/text.md" },
+      { "title": "Step 5: Path 2: guided walkthrough of a bias report", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

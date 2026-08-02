@@ -1,0 +1,19 @@
+{
+  "title": "Lab 01 — AI, ML and Deep Learning Terminology",
+  "description": "Build a precise vocabulary for AI, machine learning, deep learning and generative AI, and locate each concept in the AWS console.",
+  "difficulty": "beginner",
+  "time": "30",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Survey the AWS AI and ML console landscape", "text": "step1/text.md" },
+      { "title": "Step 2: Map the AI, ML, deep learning and generative AI hierarchy", "text": "step2/text.md" },
+      { "title": "Step 3: Distinguish supervised, unsupervised and reinforcement learning", "text": "step3/text.md" },
+      { "title": "Step 4: Separate algorithm, model, training and inference", "text": "step4/text.md" },
+      { "title": "Step 5: Compare inferencing options: real-time versus batch", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

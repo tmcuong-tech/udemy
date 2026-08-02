@@ -1,0 +1,19 @@
+{
+  "title": "Lab 09 — Generative AI Capabilities and Limitations",
+  "description": "Exercise what generative AI does well, then deliberately produce a hallucination, document it, and apply grounding and human review as mitigations.",
+  "difficulty": "beginner",
+  "time": "30",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Capabilities — summarisation and generation", "text": "step1/text.md" },
+      { "title": "Step 2: Capabilities — translation and code", "text": "step2/text.md" },
+      { "title": "Step 3: Produce a hallucination yourself and record it", "text": "step3/text.md" },
+      { "title": "Step 4: The other four limitations", "text": "step4/text.md" },
+      { "title": "Step 5: Mitigations — grounding, review and scoping", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Lab 08 — Tokens, Embeddings and Vector Representations",
+  "description": "Explore how text becomes tokens and why token counts drive cost and context limits, then generate embeddings with a Bedrock embedding model and measure semantic similarity.",
+  "difficulty": "intermediate",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Tokens are not words", "text": "step1/text.md" },
+      { "title": "Step 2: Tokens drive cost and the context window", "text": "step2/text.md" },
+      { "title": "Step 3: Generate an embedding", "text": "step3/text.md" },
+      { "title": "Step 4: Semantic similarity — compare the vectors", "text": "step4/text.md" },
+      { "title": "Step 5: Where this leads — vector stores and RAG", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

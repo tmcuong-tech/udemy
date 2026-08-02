@@ -1,0 +1,77 @@
+[
+ {
+  "file": "s186_0.png",
+  "title": "Architecture and Complexity Considerations",
+  "slide": 186
+ },
+ {
+  "file": "s190_0.png",
+  "title": "Inference Parameters",
+  "slide": 190
+ },
+ {
+  "file": "s193_0.png",
+  "title": "Amazon Bedrock",
+  "slide": 193
+ },
+ {
+  "file": "s197_0.png",
+  "title": "Retrieval Augmented Generation (RAG)",
+  "slide": 197
+ },
+ {
+  "file": "s204_0.png",
+  "title": "Lab: RAG",
+  "slide": 204
+ },
+ {
+  "file": "s206_0.png",
+  "title": "Amazon Bedrock Agents",
+  "slide": 206
+ },
+ {
+  "file": "s214_0.png",
+  "title": "Prompt Engineering Techniques",
+  "slide": 214
+ },
+ {
+  "file": "s221_0.png",
+  "title": "Prompt Performance Optimization",
+  "slide": 221
+ },
+ {
+  "file": "s232_0.png",
+  "title": "Latent Space",
+  "slide": 232
+ },
+ {
+  "file": "s256_0.png",
+  "title": "Model Integration",
+  "slide": 256
+ },
+ {
+  "file": "s257_0.png",
+  "title": "Generative AI Application Stack",
+  "slide": 257
+ },
+ {
+  "file": "s267_0.jpg",
+  "title": "AI code companion to help you code new applications (similar",
+  "slide": 267
+ },
+ {
+  "file": "s269_0.jpg",
+  "title": "PartyRock",
+  "slide": 269
+ },
+ {
+  "file": "s270_0.png",
+  "title": "Lab: Amazon Q",
+  "slide": 270
+ },
+ {
+  "file": "s271_0.png",
+  "title": "Test Your Knowledge FlashCard",
+  "slide": 271
+ }
+]

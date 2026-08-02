@@ -1,0 +1,19 @@
+{
+  "title": "Lab 21 — Explainability and Feature Attribution",
+  "description": "Use SHAP feature attribution in SageMaker Clarify to produce global and local explanations, then decide when a regulated use case requires an interpretable model instead.",
+  "difficulty": "intermediate",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Global versus local explanations", "text": "step1/text.md" },
+      { "title": "Step 2: SHAP feature attribution and the baseline", "text": "step2/text.md" },
+      { "title": "Step 3: Configure a Clarify explainability analysis", "text": "step3/text.md" },
+      { "title": "Step 4: Read and interpret a feature attribution report", "text": "step4/text.md" },
+      { "title": "Step 5: Performance versus interpretability, and when to reject the better model", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

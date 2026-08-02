@@ -1,0 +1,19 @@
+{
+  "title": "Lab 10 — Choosing Bedrock, SageMaker JumpStart or a Managed Service",
+  "description": "Compare the three layers of AWS AI capability on the same task, build a decision table, and classify ten business scenarios against it.",
+  "difficulty": "beginner",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: The three options and the question that separates them", "text": "step1/text.md" },
+      { "title": "Step 2: Option A — a managed AI service", "text": "step2/text.md" },
+      { "title": "Step 3: Option B — Bedrock, and Option C — SageMaker JumpStart", "text": "step3/text.md" },
+      { "title": "Step 4: Build the decision table", "text": "step4/text.md" },
+      { "title": "Step 5: Classify ten scenarios", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Lab 07 — Comparing Foundation Models and Inference Parameters",
+  "description": "Run one identical prompt across two or more foundation models, then hold the model constant and vary temperature, top-P and max tokens.",
+  "difficulty": "beginner",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Set up the comparison and run the first model", "text": "step1/text.md" },
+      { "title": "Step 2: Run the identical prompt on a second model", "text": "step2/text.md" },
+      { "title": "Step 3: Baseline at low temperature", "text": "step3/text.md" },
+      { "title": "Step 4: Raise temperature, then narrow top-P", "text": "step4/text.md" },
+      { "title": "Step 5: Max tokens truncates, it does not shorten", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

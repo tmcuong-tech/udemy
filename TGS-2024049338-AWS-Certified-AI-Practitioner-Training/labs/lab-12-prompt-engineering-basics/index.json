@@ -1,0 +1,19 @@
+{
+  "title": "Lab 12 — Prompt Engineering Basics — Zero-Shot and Few-Shot",
+  "description": "Run one identical classification task at zero-shot, one-shot and few-shot in the Amazon Bedrock playground, and record exactly how and why the output quality changes.",
+  "difficulty": "beginner",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Set up the playground and fix one task", "text": "step1/text.md" },
+      { "title": "Step 2: The anatomy of a prompt", "text": "step2/text.md" },
+      { "title": "Step 3: Zero-shot prompting", "text": "step3/text.md" },
+      { "title": "Step 4: One-shot and few-shot prompting", "text": "step4/text.md" },
+      { "title": "Step 5: Compare, and find where more examples stop helping", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

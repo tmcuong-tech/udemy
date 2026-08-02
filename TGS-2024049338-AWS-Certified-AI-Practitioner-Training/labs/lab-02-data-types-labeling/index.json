@@ -1,0 +1,19 @@
+{
+  "title": "Lab 02 — Data Types and Labelling for ML",
+  "description": "Classify structured, semi-structured and unstructured data, store samples in Amazon S3, and produce a labelled image dataset with SageMaker Ground Truth.",
+  "difficulty": "beginner",
+  "time": "35",
+  "details": {
+    "steps": [
+      { "title": "Step 1: Classify structured, semi-structured and unstructured data", "text": "step1/text.md" },
+      { "title": "Step 2: Create an S3 bucket and organise a dataset", "text": "step2/text.md" },
+      { "title": "Step 3: Understand labelled versus unlabelled data", "text": "step3/text.md" },
+      { "title": "Step 4: Create a SageMaker Ground Truth labelling job", "text": "step4/text.md" },
+      { "title": "Step 5: Label the images and read the output manifest", "text": "step5/text.md" },
+      { "title": "Step 6: Clean up", "text": "step6/text.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}

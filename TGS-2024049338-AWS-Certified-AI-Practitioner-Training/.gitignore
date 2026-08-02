@@ -1,0 +1,69 @@
+# --- WSQ assessment materials (confidential — never pushed) ----------------
+# Live assessment instruments AND their answer keys. Trainer-only; these live
+# in the course Google Drive folder, not here.
+assessment/
+Assessment/
+
+# --- Assessment SOURCE — contains questions AND model answers -------------
+build/build_assessment*.py
+.claude/skills/wsq-assessment/
+
+# --- Large reference material ---------------------------------------------
+*.zip
+WSQ - Master Trainer Slides - AWS Certified AI Practitioner Training - v10.pptx
+build/v11-work.pptx
+build/v11-compressed.pptx
+build/v10_slides.json
+
+# --- Ignore stray Office files, but DO track the generated courseware ------
+*.pptx
+*.docx
+!courseware/*.pptx
+!courseware/*.docx
+
+# --- Build intermediates ---------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+build/__pycache__/
+*.tmp
+*.bak
+
+# --- Credentials — never commit -------------------------------------------
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+credentials
+credentials.json
+token.json
+
+# --- OS / editor cruft -----------------------------------------------------
+.DS_Store
+._*
+Thumbs.db
+~$*
+
+# --- Assets inherited from the n8n course template (not used here) ---------
+.claude/skills/*/assets/n8n-*
+.claude/skills/*/assets/site-*
+.claude/skills/*/assets/smart-qrcode.png
+.claude/skills/*/assets/exams-portal.png
+.claude/skills/*/assets/lms-tms-portal.png
+.claude/skills/*/assets/rag-flow.png
+
+# --- CLSSGB reference course (do not commit to the AWS repo) ------------------
+Examples/
+
+# Derived deck screenshots (re-extractable from the deck)
+build/slides-proto/assets/screens/
+
+# Other-course assets copied into the slide pipeline (only the Tertiary logo is used)
+build/slides-proto/assets/n8n-*
+build/slides-proto/assets/site-*
+build/slides-proto/assets/rag-flow.png
+build/slides-proto/assets/smart-qrcode.png
+build/slides-proto/assets/exams-portal.png
+build/slides-proto/assets/lms-tms-portal.png
